@@ -1,5 +1,5 @@
 # HookingService
-A simple module to spoof and hook instances and values in roblox
+**A simple module to spoof and hook instances and values in roblox**
 # Documentation
 ### Hook
 **Hooks one function to the other.**
